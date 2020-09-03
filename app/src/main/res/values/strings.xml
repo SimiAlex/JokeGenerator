@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JokeGenerator</string>
+    <string name="first_message">To lighten up your day, we made a joke for you</string>
+    <string name="button_message">Catch a joke</string>
+</resources>
